@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Tejashri Bhandari 👋
 🎓 First-year B.Tech student at VIT Bhopal (Health Informatics)
 💡 Interested in learning programming, problem-solving, and digital tools
